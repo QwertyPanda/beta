@@ -66,3 +66,7 @@ Report issues you encounter on this repository. Issues will be triaged and added
 ## Release Notes
 
 Release notes will be available later.
+
+##Info
+
+Pop Os! Is a multipurpose operating system that is loved by both enthusiasts as well as beginners and is now available for the Raspberry Pi! This is the fork of the original project.
